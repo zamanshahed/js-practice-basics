@@ -1,0 +1,29 @@
+body {
+  background-color: gainsboro;
+}
+.heading {
+  color: blueviolet;
+}
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: darkgreen;
+}
+.cart {
+  width: 50%;
+  text-align: center;
+  background-color: burlywood;
+}
+.check-out {
+  width: 50%;
+  text-align: center;
+  background-color: cornflowerblue;
+}
+.search-box {
+  width: 80%;
+  height: 30px;
+  padding: 7px;
+  margin: 5px;
+  background-color: gainsboro;
+  border-radius: 15px;
+}
