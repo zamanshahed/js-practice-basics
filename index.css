@@ -1,15 +1,14 @@
-body {
-  background-color: gainsboro;
+.body_bg {
+  /* background-color: darkkhaki; */
+  /* padding-top: 2%; */
 }
 .heading {
   color: blueviolet;
 }
-.container {
-  display: flex;
-  flex-wrap: nowrap;
-  background-color: darkgreen;
+.prod {
+  padding-inline: 10px;
 }
-.cart {
+/* .cart {
   width: 50%;
   text-align: center;
   background-color: burlywood;
@@ -26,4 +25,4 @@ body {
   margin: 5px;
   background-color: gainsboro;
   border-radius: 15px;
-}
+} */

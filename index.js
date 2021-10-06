@@ -5,3 +5,5 @@ const DUMMY_DATA = [
   ["Smartphone", "imageUrl", 499.99],
   ["Laptop", "imageUrl", 1250.5],
 ];
+
+
